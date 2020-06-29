@@ -12,6 +12,7 @@ tags:
  - 2020_06
  - 2020_0628
  - 2020_0628_23
+ - hotnews
 categories:
  - 2020_0628
 #icon:        "fas fa-lock-open"
