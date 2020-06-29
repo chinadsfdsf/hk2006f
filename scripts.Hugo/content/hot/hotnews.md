@@ -11,7 +11,7 @@ categories:
   - features
 ---
 
-{{< mydiv4o link="https://hk2004.chinadsf.org/hot/hotnews/" text=" hot news 以前的新闻 20040" >}}
+{{< mynull aa=mydiv4o link="https://hk2004.chinadsf.org/hot/hotnews/" text=" hot news 以前的新闻 20040" >}}
 
 
 
